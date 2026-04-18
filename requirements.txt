@@ -1,0 +1,11 @@
+# Scientific Computing & Automatic Differentiation
+numpy
+autograd
+scipy
+
+# Financial Data & Time Series
+yfinance
+pandas
+
+# Visualization
+matplotlib
